@@ -28,8 +28,8 @@ Para responder  as duas perguntas foi utilizado a linguagem de programação Pyt
   
 
 * Código fonte
-  * [notebook 1](https://github.com/suebatista/hackathon/blob/main/dermatite.ipynb)
-  * [notebook 2](https://github.com/suebatista/hackathon/blob/main/dermatite_inss.ipynb)
+  * [notebook 1](https://github.com/DaniloGouvea/datathon-dermatite-atopica/blob/main/dermatite.ipynb)
+  * [notebook 2](https://github.com/DaniloGouvea/datathon-dermatite-atopica/blob/main/dermatite_inss.ipynb)
 
 * Dashboard de visualização dos dados 
   * [dashboard](https://share.streamlit.io/suebatista/hackathon_dermatitis/main/hackathon/main.py)
